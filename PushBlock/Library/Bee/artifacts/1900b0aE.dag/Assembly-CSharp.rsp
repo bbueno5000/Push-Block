@@ -372,6 +372,8 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Scripts/GoalDetect.cs"
 "Assets/Scripts/GoalDetectTrigger.cs"
+"Assets/Scripts/ModelOverrider.cs"
+"Assets/Scripts/ProjectSettingsOverrides.cs"
 "Assets/Scripts/PushAgentBasic.cs"
 "Assets/Scripts/PushAgentCollab.cs"
 "Assets/Scripts/PushBlockEnvController.cs"

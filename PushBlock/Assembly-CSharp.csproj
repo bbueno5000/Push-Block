@@ -59,7 +59,9 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\PushBlockSettings.cs" />
     <Compile Include="Assets\Scripts\PushAgentBasic.cs" />
+    <Compile Include="Assets\Scripts\ModelOverrider.cs" />
     <Compile Include="Assets\Scripts\GoalDetect.cs" />
+    <Compile Include="Assets\Scripts\ProjectSettingsOverrides.cs" />
     <Compile Include="Assets\Scripts\GoalDetectTrigger.cs" />
     <Compile Include="Assets\Scripts\PushAgentCollab.cs" />
     <Compile Include="Assets\Scripts\PushBlockEnvController.cs" />
