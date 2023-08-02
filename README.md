@@ -1,5 +1,7 @@
 # PushBlock
 
+![Push](push.png)
+
 - Set-up: A platforming environment where the agent can push a block around.
 - Goal: The agent must push the block to the goal.
 - Agents: The environment contains one agent.
