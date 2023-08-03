@@ -1,5 +1,10 @@
 # Push Block
 
+## Installation
+
+git+https://github.com/Unity-Technologies/ml-agents.git?path=com.unity.ml-agents#release_20
+git+https://github.com/Unity-Technologies/ml-agents.git?path=com.unity.ml-agents.extensions#release_20
+
 ## Basic Push Block
 
 ![Push](push.png)
