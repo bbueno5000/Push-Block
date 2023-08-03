@@ -14,7 +14,7 @@ git+https://github.com/Unity-Technologies/ml-agents.git?path=com.unity.ml-agents
 
 ## Basic Push Block
 
-![Push](push.png)
+![Push](https://github.com/Unity-Technologies/ml-agents/blob/develop/docs/images/push.png)
 
 - Set-up: A platforming environment where the agent can push a block around.
 - Goal: The agent must push the block to the goal.
@@ -51,7 +51,7 @@ git+https://github.com/Unity-Technologies/ml-agents.git?path=com.unity.ml-agents
 
 ## Cooperative Push Block
 
-![CoopPushBlock](cooperative_pushblock.png)
+![CoopPushBlock](https://github.com/Unity-Technologies/ml-agents/blob/develop/docs/images/cooperative_pushblock.png)
 
 - Set-up: Similar to Push Block, the agents are in an area with blocks that need
 to be pushed into a goal. Small blocks can be pushed by one agents and are worth
