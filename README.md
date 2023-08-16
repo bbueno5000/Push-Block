@@ -1,17 +1,5 @@
 # Push Block
 
-## Installation
-
-In Unity 2019.4 or later, open the Package Manager, hit the "+" button, and select "Add package from git URL".
-
-![Package Manager git URL](https://github.com/Unity-Technologies/ml-agents/blob/release_20_docs/docs/images/unity_package_manager_git_url.png)
-
-In the dialog that appears, enter
- ```
-git+https://github.com/Unity-Technologies/ml-agents.git?path=com.unity.ml-agents#release_20
-git+https://github.com/Unity-Technologies/ml-agents.git?path=com.unity.ml-agents.extensions#release_20
-```
-
 ## Basic Push Block
 
 ![Push](https://github.com/Unity-Technologies/ml-agents/blob/develop/docs/images/push.png)
@@ -69,3 +57,15 @@ blocks require all 3 agents to push and are worth +3.
     and counterclockwise, move along four different face directions, or do nothing.
 - Float Properties: None
 - Benchmark Mean Reward: 11 (Group Reward)
+
+## Installation
+
+In Unity 2019.4 or later, open the Package Manager, hit the "+" button, and select "Add package from git URL".
+
+![Package Manager git URL](https://github.com/Unity-Technologies/ml-agents/blob/release_20_docs/docs/images/unity_package_manager_git_url.png)
+
+In the dialog that appears, enter
+ ```
+git+https://github.com/Unity-Technologies/ml-agents.git?path=com.unity.ml-agents#release_20
+git+https://github.com/Unity-Technologies/ml-agents.git?path=com.unity.ml-agents.extensions#release_20
+```
